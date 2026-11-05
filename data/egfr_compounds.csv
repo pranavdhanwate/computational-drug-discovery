@@ -1,0 +1,21 @@
+compound_id,name,smiles,target,chembl_id,experimental_pic50,clinical_phase,indication
+CMP001,Erlotinib,COCCOc1cc2c(Nc3cccc(C#C)c3)ncnc2cc1OCCOC,EGFR kinase,CHEMBL547,8.70,Approved,Non-small cell lung cancer
+CMP002,Gefitinib,COc1cc2ncnc(Nc3ccc(F)c(Cl)c3)c2cc1OCCCN1CCOCC1,EGFR kinase,CHEMBL939,8.48,Approved,Non-small cell lung cancer
+CMP003,Lapatinib,CS(=O)(=O)CCNCc1ccc(-c2ccc3ncnc(Nc4ccc(OCc5cccc(F)c5)c(Cl)c4)c3c2)o1,EGFR/HER2,CHEMBL554,7.96,Approved,HER2-positive breast cancer
+CMP004,Afatinib,CN(C)CC=CC(=O)Nc1cc2c(Nc3ccc(Cl)c(F)c3)ncnc2cc1OC1CCOC1,EGFR (T790M mutant),CHEMBL1173655,9.30,Approved,EGFR-mutated NSCLC
+CMP005,Osimertinib,CN(C)CCN(C)c1cc(Nc2ncc(C)c(Nc3cccc(C)c3)n2)c(OC)cc1NC(=O)C=C,EGFR (T790M/L858R),CHEMBL3545104,9.10,Approved,EGFR T790M NSCLC
+CMP006,Dacomitinib,COc1cc2ncnc(Nc3ccc(Cl)c(F)c3)c2cc1OCCC=CCN1CCCCC1,EGFR/HER1-4,CHEMBL2105757,8.22,Approved,Metastatic NSCLC
+CMP007,Vandetanib,COc1cc2c(Nc3ccc(Br)c(Cl)c3)ncnc2cc1OCC1CCN(C)CC1,EGFR/VEGFR2,CHEMBL400615,7.00,Approved,Thyroid cancer
+CMP008,Icotinib,C#Cc1cccc(Nc2ncnc3cc4c(cc23)OCCO4)c1,EGFR kinase,CHEMBL1761146,8.20,Approved,Advanced NSCLC
+CMP009,Canertinib,C=CC(=O)Nc1cc2c(Nc3ccc(Cl)c(F)c3)ncnc2cc1OCCCN1CCN(C)CC1,EGFR pan-HER,CHEMBL276707,8.15,Phase II,Solid tumours
+CMP010,Pelitinib,COc1cc2c(Nc3ccc(Cl)c(F)c3)c(C#N)cnc2cc1OCCC=CCN(C)C,EGFR kinase,CHEMBL389851,7.40,Phase II,Colorectal & lung cancer
+CMP011,Neratinib,COc1cc2c(Nc3ccc(OCc4cccc(Cl)c4)c(Cl)c3)c(C#N)cnc2cc1OCCC=CCN(C)C,EGFR/HER2,CHEMBL1201585,8.25,Approved,HER2+ breast cancer
+CMP012,Brigatinib,COc1cc(Nc2ncc(Cl)c(Nc3ccccc3P(=O)(C)C)n2)ccc1N1CCN(C)CC1,EGFR/ALK,CHEMBL3905934,7.80,Approved,ALK+ / EGFR NSCLC
+CMP013,WZ4002,COc1cc(Nc2ncc(Cl)c(Nc3cccc(NC(=O)C=C)c3)n2)c(OC)cc1N1CCN(C)CC1,EGFR T790M,CHEMBL1230609,8.09,Preclinical,Drug-resistant NSCLC
+CMP014,EKI-785,C#CC(=O)Nc1cc2c(Nc3ccc(Br)c(F)c3)ncnc2cc1OCCCN1CCOCC1,EGFR kinase,CHEMBL272186,8.00,Preclinical,EGFR overexpressing tumours
+CMP015,Rociletinib,CC(=O)N1CCN(c2ccc(Nc3ncc(C(F)(F)F)c(Nc4ccc(NC(=O)C=C)cc4)n3)cc2)CC1,EGFR T790M,CHEMBL3301610,8.60,Phase II/III,Mutant NSCLC
+CMP016,Metformin,CN(C)C(=N)N=C(N)N,None (Control),CHEMBL1431,2.00,Approved,Type 2 Diabetes (Negative Control)
+CMP017,Paracetamol,CC(=O)Nc1ccc(O)cc1,None (Control),CHEMBL112,2.00,Approved,Analgesic (Negative Control)
+CMP018,Aspirin,CC(=O)Oc1ccccc1C(=O)O,None (Control),CHEMBL25,2.00,Approved,Anti-inflammatory (Negative Control)
+CMP019,Caffeine,Cn1cnc2c1c(=O)n(C)c(=O)n2C,None (Control),CHEMBL113,2.00,Approved,CNS Stimulant (Negative Control)
+CMP020,Diclofenac,O=C(O)Cc1ccccc1Nc1c(Cl)cccc1Cl,None (Control),CHEMBL139,2.00,Approved,NSAID (Negative Control)
